@@ -1,0 +1,416 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Value Analysis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 01:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.6\n"
+"X-Domain: value_analysis"
+
+#: PHP/vave_page.php:176
+msgid "&raquo;, die Anforderung, &laquo;"
+msgstr ""
+
+#: PHP/vave_page.php:177
+msgid "&raquo;?"
+msgstr ""
+
+#: PHP/vave_page.php:674
+msgid "add child"
+msgstr ""
+
+#: PHP/vave_page.php:659
+msgid "add Möglichkeiten"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:17
+msgid "Add New"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:16
+msgid "Add New Value Analysis"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:15
+msgid "All Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:650
+msgid "Anforderung"
+msgstr ""
+
+#: PHP/vave_page.php:521
+msgid "Anforderung löschen"
+msgstr ""
+
+#: PHP/vave_page.php:648
+msgid "Anforderungen"
+msgstr ""
+
+#: PHP/vave_page.php:781
+msgid "Anforderungen gewichten"
+msgstr ""
+
+#: PHP/vave_page.php:522
+msgid "Anforderungen speichern"
+msgstr ""
+
+#: PHP/vave_request.php:152
+msgid "Auswahl gespeichert"
+msgstr ""
+
+#: PHP/vave_request.php:155
+msgid "Auswahl war bereits gespeichert"
+msgstr ""
+
+#: PHP/vave_page.php:107 PHP/vave_page.php:124
+msgid "Auswertung"
+msgstr ""
+
+#: PHP/vave_page.php:720
+msgid "Beste Möglichkeit"
+msgstr ""
+
+#: PHP/vave_page.php:1163
+msgid "Bewertungs-Link"
+msgstr ""
+
+#: PHP/vave_page.php:1165
+msgid "Copy access token for Rating-User"
+msgstr ""
+
+#: PHP/vave_request.php:59 PHP/vave_request.php:197
+msgid "Daten aktualisiert"
+msgstr ""
+
+#: PHP/vave_request.php:48
+msgid "Daten eingelesen"
+msgstr ""
+
+#: PHP/vave_request.php:62 PHP/vave_request.php:200
+msgid "Daten waren bereits aktualisiert"
+msgstr ""
+
+#: PHP/vave_page.php:187
+msgid "Der User access token wurde in die Zwischenablage kopiert"
+msgstr ""
+
+#: PHP/vave_page.php:186
+msgid "Die Grundanforderung darf nicht verschoben werden"
+msgstr ""
+
+#: PHP/vave_page.php:183
+msgid "Die Seite muss neu geladen werden"
+msgstr ""
+
+#: PHP/vave_request.php:74
+msgid "Drag&Draop Daten aktualisiert"
+msgstr ""
+
+#: PHP/vave_request.php:77
+msgid "Drag&Draop Daten waren bereits aktualisiert"
+msgstr ""
+
+#: PHP/vave_page.php:182
+msgid "edit locked"
+msgstr ""
+
+#: PHP/vave_page.php:181
+msgid "edit unlocked"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:19
+msgid "Edit Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:663
+msgid "fake"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:26
+msgid "Featured Image"
+msgstr ""
+
+#: PHP/vave_request.php:26 PHP/vave_request.php:207
+msgid "Fehler: no Action defined"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:34
+msgid "Filter Value Analysis list"
+msgstr ""
+
+#: PHP/vave_page.php:652
+msgid "Gewicht"
+msgstr ""
+
+#: PHP/vave_page.php:653
+msgid "Gewichtung"
+msgstr ""
+
+#: PHP/vave_request.php:95
+msgid "Gewichtungs-Daten eingelesen"
+msgstr ""
+
+#: PHP/vave_request.php:106
+msgid "Gewichtungs-Daten gespeichert"
+msgstr ""
+
+#: PHP/vave_request.php:109
+msgid "Gewichtungs-Daten waren bereits gespeichert"
+msgstr ""
+
+#: PHP/vave_page.php:179
+msgid "gut"
+msgstr ""
+
+#: PHP/vave_page.php:185
+msgid "Hierhin kann das Element nicht verschoben werden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/severinroth"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/value_analysis/"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:30
+msgid "Insert into Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:713
+msgid "Involvierte User Status"
+msgstr ""
+
+#: PHP/vave_request.php:182
+msgid "Lock gespeichert"
+msgstr ""
+
+#: PHP/vave_request.php:185
+msgid "Lock war bereits gespeichert"
+msgstr ""
+
+#: PHP/vave_page.php:174 PHP/vave_page.php:891
+msgid "Möglichkeit"
+msgstr ""
+
+#: PHP/vave_request.php:137
+msgid "Möglichkeit gelöscht"
+msgstr ""
+
+#: PHP/vave_request.php:122
+msgid "Möglichkeit gespeichert"
+msgstr ""
+
+#: PHP/vave_request.php:140
+msgid "Möglichkeit war bereits gelöscht"
+msgstr ""
+
+#: PHP/vave_request.php:125
+msgid "Möglichkeit war bereits gespeichert"
+msgstr ""
+
+#: PHP/vave_page.php:658 PHP/vave_page.php:659
+msgid "Möglichkeiten"
+msgstr ""
+
+#: PHP/vave_page.php:793
+msgid "Möglichkeiten bewerten"
+msgstr ""
+
+#: PHP/vave_page.php:1156
+msgid "Name"
+msgstr ""
+
+#: PHP/vave_page.php:520
+msgid "Neuen Anforderung erstellen"
+msgstr ""
+
+#: PHP/vave_page.php:1149
+msgid "Neuen User erzeugen"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:18
+msgid "New Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:114
+msgid "Next Step"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:24
+msgid "Not found"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:25
+msgid "Not found in Trash"
+msgstr ""
+
+#: PHP/vave_admin.php:3 PHP/vave_page.php:104 PHP/vave_page.php:118
+msgid "Nutzwertanalyse"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:14
+msgid "Parent Value Analysis:"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:8
+msgctxt "Post Type General Name"
+msgid "Value Analysis"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:9
+msgctxt "Post Type Singular Name"
+msgid "Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:895
+msgid "Punktzahl"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:28
+msgid "Remove featured image"
+msgstr ""
+
+#: PHP/vave_request.php:167
+msgid "Result gespeichert"
+msgstr ""
+
+#: PHP/vave_request.php:170
+msgid "Result war bereits gespeichert"
+msgstr ""
+
+#: PHP/vave_page.php:748
+msgid "Resultat Nutzwertanalyse pro Möglichkeit"
+msgstr ""
+
+#: PHP/vave_page.php:741
+msgid "Resultat Nutzwertanalyse pro User"
+msgstr ""
+
+#: PHP/vave_page.php:178
+msgid "schlecht"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:23
+msgid "Search Value Analysis"
+msgstr ""
+
+#: PHP/vave_page.php:180
+msgid "sehr gut"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:27
+msgid "Set featured image"
+msgstr ""
+
+#. Author of the plugin
+msgid "Severin Roth"
+msgstr ""
+
+#: PHP/vave_page.php:39 PHP/vave_page.php:69 PHP/vave_page.php:74
+msgid "Sie haben nicht die nötigen Rechte um diese Seite auf zu rufen."
+msgstr ""
+
+#: PHP/vave_page.php:497
+msgid "Struktur editieren"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:20
+msgid "Update Value Analysis"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:31
+msgid "Uploaded to this Value Analysis"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:29
+msgid "Use as featured image"
+msgstr ""
+
+#: PHP/vave_page.php:774
+msgid "User"
+msgstr ""
+
+#: PHP/vave_page.php:184
+msgid "User access token fürs Bewerten:"
+msgstr ""
+
+#: PHP/vave_page.php:1150
+msgid "User löschen"
+msgstr ""
+
+#. Name of the plugin
+#: PHP/vave_mainPHP.php:10 PHP/vave_mainPHP.php:11 PHP/vave_mainPHP.php:37
+msgid "Value Analysis"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:38
+msgid "Value Analysis - Nutzwertanalyse"
+msgstr ""
+
+#. Description of the plugin
+msgid "Value Analysis - Nutzwertanalyse mit gewichteter Paarvergleichsmethode"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:12
+msgid "Value Analysis Archives"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:13
+msgid "Value Analysis Attributes"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:32
+msgid "Value Analysis list"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:33
+msgid "Value Analysis list navigation"
+msgstr ""
+
+#: PHP/vave_mainPHP.php:21 PHP/vave_mainPHP.php:22
+msgid "View Value Analysis"
+msgstr ""
+
+#: PHP/vave_request.php:37 PHP/vave_request.php:55 PHP/vave_request.php:70
+#: PHP/vave_request.php:85 PHP/vave_request.php:102 PHP/vave_request.php:117
+#: PHP/vave_request.php:133 PHP/vave_request.php:148 PHP/vave_request.php:163
+#: PHP/vave_request.php:178 PHP/vave_request.php:193
+msgid "Warning! postID fehlt"
+msgstr ""
+
+#: PHP/vave_page.php:551
+msgid "Was ist wichtiger"
+msgstr ""
+
+#: PHP/vave_page.php:175
+msgid "Wie gut erfüllt die Möglichkeit, &laquo;"
+msgstr ""
+
+#: PHP/vave_page.php:1151
+msgid "Änderungen speichern"
+msgstr ""
+
+#: PHP/vave_page.php:519 PHP/vave_page.php:1148
+msgid "Änderungen verwerfen"
+msgstr ""
+
+#: PHP/vave_page.php:101 PHP/vave_page.php:111
+msgid "Übersicht"
+msgstr ""
+
+#: PHP/vave_page.php:727 PHP/vave_page.php:734 PHP/vave_page.php:875
+#: PHP/vave_page.php:886 PHP/vave_page.php:904
+msgid "Übersicht Resultat Nutzwertanalyse"
+msgstr ""

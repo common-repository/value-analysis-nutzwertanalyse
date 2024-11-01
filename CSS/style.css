@@ -1,0 +1,106 @@
+#vaMainContainer {
+    font-size: 12px;
+}
+
+#vaMainContainer button,
+#vaMainContainer table,
+input .k-textbox {
+    font-size: 12px;
+}
+
+#vave_staticNotificationAppendto {
+    font-size: 12px;
+}
+
+
+/* ------------------------------------ */
+
+.vave_grid {}
+
+.va-wrapper {
+    width: 100%;
+}
+
+.vave_pan:hover {
+    cursor: move;
+}
+
+.vave_weighting_btn {
+    width: 150px;
+}
+
+.vave_addWeighting {}
+
+.vave_nonAddWeighting {
+    color: gray;
+}
+
+.vave_opportinitie_header {
+    cursor: pointer;
+}
+
+.vave_chartPdfBtn {}
+
+#vave_lockSwitchTxt {
+    border: 1px solid red;
+    vertical-align: baseline;
+}
+
+#vave_dash_grid {}
+
+#vave_dash_grid_nextStepBtn {
+    margin-top: 10px;
+}
+
+.vave_dashGrid_btn_container {}
+
+#appendto {
+    background: rgba(100%, 100%, 100%, .6);
+}
+
+#vave_staticNotification .k-notification-wrap {
+    width: 210px;
+    overflow-wrap: normal;
+    white-space: normal;
+}
+
+.vave_staticNotification-section {
+    text-align: center;
+    line-height: 3em;
+    width: 250px;
+    max-width: 400px;
+    position: fixed;
+    right: 10px;
+    top: 45px;
+    padding: 10px;
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08), 0 3px 6px rgba(0, 0, 0, 0.08);
+}
+
+.k-notification-wrap {
+    white-space: pre-wrap;
+}
+
+.k-notification {
+    margin-bottom: 10px;
+    border: 0;
+}
+
+.k-notification-content {
+    hyphens: auto;
+    word-wrap: break-word;
+}
+
+.vave_weighting_btn_what {
+    margin: 0;
+}
+
+.vave_weighting_btn_hr {
+    margin: 0;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#vave_main_container tr:first-child td .vave_maingrid-btn-destroy {
+    display: none;
+    /*border: 6px solid red !important;*/
+}
